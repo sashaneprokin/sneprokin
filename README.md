@@ -2,5 +2,6 @@ Hullo, the name's Sasha Neprokin! I'm a front-end aficionado in Ukraine. The sph
 
 const craft = {
    pronouns: ['he'/'him'],
+   <br />
    stack: ['HTML', 'CSS', 'JS', 'React', 'Redux', 'Styled-Components', 'firebase', 'unit testing']
 }
