@@ -1,6 +1,6 @@
 ### Hi there 👋, Sasha
 #### WEB Development 
-![WEB Development ](https://pbs.twimg.com/profile_banners/1199014534104698880/1599480401/600x200)
+![WEB Development ]
 
 Hi, I'm Sasha Neprokin, and I produce front-end solutions efficiently. I'm knee-deep in .every project and frameworks excite me. Much fond of React and React Native, I also rejoice of GraphQL. 
 
