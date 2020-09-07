@@ -1,6 +1,6 @@
 ### Hi there 👋, Sasha
 #### WEB Development 
-![WEB Development ]
+![WEB Development ](https://github.com/sneprokin/sneprokin/blob/master/photo_2020-09-07_17-28-22.jpg)
 
 Hi, I'm Sasha Neprokin, and I produce front-end solutions efficiently. I'm knee-deep in .every project and frameworks excite me. Much fond of React and React Native, I also rejoice of GraphQL. 
 
