@@ -1,4 +1,4 @@
-![WEB Development ](https://github.com/sneprokin/sneprokin/blob/master/photo_2020-09-07_17-28-22.jpg)
+![WEB Development ]()
 
 # Sasha Neprokin
  
