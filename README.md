@@ -6,5 +6,5 @@ I'm Sasha from Ukraine, and I produce front-end solutions efficiently. I'm knee-
 
 ## Skills 
 ⚛ React
-📱 React Native
+📱 TS
 💻 HTML, CSS, JS
